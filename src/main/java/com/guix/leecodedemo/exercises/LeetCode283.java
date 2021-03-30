@@ -23,7 +23,6 @@ public class LeetCode283 {
     public static void main(String[] args) {
 //        int[] nums = {1,7,0,0,1,2,0,3,12};
         int[] nums = {1,7};
-
         nums = moveZeroes(nums);
         System.out.println("nums = " + Arrays.toString(nums));
     }
